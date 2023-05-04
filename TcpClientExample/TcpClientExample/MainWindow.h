@@ -24,10 +24,14 @@ private Q_SLOTS:
     void onBtnConnectClicked();
     void onBtnDisconnectClicked();
     void onLineEditReturnPressed();
-    void readyRead();
+    void readReply();
+
+private:
+    void writeLog(const QString& log);
 
 private:
     Ui::MainWindow* ui;
+    QTcpSocket* mySocket;
 };
 
 #endif // MAINWINDOW_H

@@ -40,3 +40,4 @@ TcpClientExample/build-TcpClientExample-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/
 TcpPrac/build-TcpPrac-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/
 *.user
 .vs/
+TcpServerExample/build-TcpServerExample-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/
