@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+QML/hello/build-hello-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/
+QML/hello/build-hello-Desktop_Qt_6_5_0_MSVC2019_64bit-Release/
+QML/tutorial/build-tutorial-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/
+QML/tutorial/build-tutorial-Desktop_Qt_6_5_0_MSVC2019_64bit-Profile/
+QML/tutorial/build-tutorial-Desktop_Qt_6_5_0_MSVC2019_64bit-Release/
+QML/tutorial2/build-tutorial2-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/
+TcpClientExample/build-TcpClientExample-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/
+TcpPrac/build-TcpPrac-Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/
+*.user
+.vs/
